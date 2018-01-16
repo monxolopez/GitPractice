@@ -19,10 +19,8 @@
 
 **Final Research Paper (team of 3):** . 
 
--present topic of paper in class
-
--write Final Research Paper
-
+-present topic of paper in class.  
+-write Final Research Paper.  
 -present findings in class in 10m presentation. (20%)   
 
 **Attendance and participation (30%)**
@@ -30,9 +28,9 @@
 **Short Final Exam (10%)**
 
 ## Week 2-3 : ##      
-[*What is a Nation?*](https://drive.google.com/open?id=0Bx7dFWXNGLJFUUFBVWk1bEo3SkE) - Renan, Ernest (1882). 
+- Renan, Ernest (1882): [*What is a Nation?*](https://drive.google.com/open?id=0Bx7dFWXNGLJFUUFBVWk1bEo3SkE). 
 
-[*Social Contract*](https://drive.google.com/open?id=0Bx7dFWXNGLJFc2xIVlh1eWVSb2s) (all of Book I, and Book II up to Chapter X, pages 46-86), Jean-Jacques Rousseau. 
+- Jean-Jacques Rousseau (1762): [*Social Contract*](https://drive.google.com/open?id=0Bx7dFWXNGLJFc2xIVlh1eWVSb2s) (all of Book I, and Book II up to Chapter X, pages 46-86). 
 
 Ideal types, sovereignty, Jefferson vs. Rousseau, the types of conquest (internal – external), what a colony is. 
 
