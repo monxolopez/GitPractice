@@ -21,7 +21,7 @@
 **Short Final Exam (10%)**
 
 ## Week 2-3 : ##      
-(https://drive.google.com/open?id=0Bx7dFWXNGLJFUUFBVWk1bEo3SkE "What is a Nation?") Renan, Ernest (1882). 
-(https://drive.google.com/open?id=0Bx7dFWXNGLJFc2xIVlh1eWVSb2s "**Social Contract**" (all of Book I, and Book II up to Chapter X, pages 46-86), Jean-Jacques Rousseau. 
+[What is a Nation] (https://drive.google.com/open?id=0Bx7dFWXNGLJFUUFBVWk1bEo3SkE) Renan, Ernest (1882). 
+[Social Contract] (https://drive.google.com/open?id=0Bx7dFWXNGLJFc2xIVlh1eWVSb2s) (all of Book I, and Book II up to Chapter X, pages 46-86), Jean-Jacques Rousseau. 
 Ideal types, sovereignty, Jefferson vs. Rousseau, the types of conquest (internal – external), what a colony is. 
 
