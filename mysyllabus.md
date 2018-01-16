@@ -7,13 +7,13 @@
 
 
 
-**Grading: **
-**3 essays throughout the semester commenting of 3 assigned readings. (30%)**
-   -1st due by: Tuesday September 26. 
-   -2nd due by: Tuesday October 31.
-   -3rd due by: Tuesday November 5. 
-**Mid-term exam (10%)**
-**Final Research Paper (team of 3):**
+**Grading:** . 
+**3 essays throughout the semester commenting of 3 assigned readings. (30%)** . 
+   -1st due by: Tuesday September 26.     
+   -2nd due by: Tuesday October 31.  
+   -3rd due by: Tuesday November 5.   
+**Mid-term exam (10%)** . 
+**Final Research Paper (team of 3):** . 
 -present topic of paper in class, 
 -write Final Research Paper, 
 -present findings in class in 10m presentation. (20%)
