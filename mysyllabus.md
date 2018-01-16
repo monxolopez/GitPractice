@@ -8,11 +8,15 @@
 
 
 **Grading:** . 
+
 **3 essays throughout the semester commenting of 3 assigned readings. (30%)** . 
+
 -1st due by: Tuesday September 26.     
 -2nd due by: Tuesday October 31.  
 -3rd due by: Tuesday November 5.   
+
 **Mid-term exam (10%)** . 
+
 **Final Research Paper (team of 3):** . 
 -present topic of paper in class, 
 -write Final Research Paper, 
@@ -22,6 +26,8 @@
 
 ## Week 2-3 : ##      
 [*What is a Nation?*](https://drive.google.com/open?id=0Bx7dFWXNGLJFUUFBVWk1bEo3SkE) - Renan, Ernest (1882). 
+
 [*Social Contract*](https://drive.google.com/open?id=0Bx7dFWXNGLJFc2xIVlh1eWVSb2s) (all of Book I, and Book II up to Chapter X, pages 46-86), Jean-Jacques Rousseau. 
+
 Ideal types, sovereignty, Jefferson vs. Rousseau, the types of conquest (internal – external), what a colony is. 
 
