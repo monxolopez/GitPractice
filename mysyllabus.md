@@ -17,11 +17,14 @@
 
 **Mid-term exam (10%)** . 
 
-**Final Research Paper (team of 3):** . 
+**Final Research Paper (team of 3):** 
+
 -present topic of paper in class, 
 -write Final Research Paper, 
 -present findings in class in 10m presentation. (20%)
+
 **Attendance and participation (30%)**
+
 **Short Final Exam (10%)**
 
 ## Week 2-3 : ##      
