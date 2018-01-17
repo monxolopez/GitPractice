@@ -28,7 +28,7 @@
 **Short Final Exam (10%)**
 
 ## Week 2-3 : ##      
-<<<<<<< HEAD
+
 - Ernest Renan(1882): [*What is a Nation?*](https://drive.google.com/open?id=0Bx7dFWXNGLJFUUFBVWk1bEo3SkE). 
 
 - Jean-Jacques Rousseau (1762): [*Social Contract*](https://drive.google.com/open?id=0Bx7dFWXNGLJFc2xIVlh1eWVSb2s) (all of Book I, and Book II up to Chapter X, pages 46-86). 
