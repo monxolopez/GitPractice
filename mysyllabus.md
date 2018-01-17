@@ -15,7 +15,7 @@
 -2nd due by: Tuesday October 31.  
 -3rd due by: Tuesday November 5.   
 
-**Mid-term exam (10%):** 
+**Mid-term exam (10%)** 
 
 **Final Research Paper (team of 3) (20%):**  
 
