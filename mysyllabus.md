@@ -40,4 +40,4 @@ Movie: Empire documentary (Niall Ferguson)
 [Statehood from a Radical-Democratic Perspective (Manifesto)](https://docs.google.com/document/d/1uwW9i3sWDFwFVInBWyxDFBQ-Hzk5ruGrUQTh1tyhEjg/edit?usp=sharing)
 
 
-TRATANDO
+TRATANDO TRatando
