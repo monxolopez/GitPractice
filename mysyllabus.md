@@ -9,7 +9,7 @@
 
 ## Grading: 
 
-**3 essays throughout the semester commenting of 3 assigned readings. (30%): **  
+**3 essays throughout the semester commenting of 3 assigned readings. (30%):**  
 
 -1st due by: Tuesday September 26.     
 -2nd due by: Tuesday October 31.  
