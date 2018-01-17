@@ -28,6 +28,7 @@
 **Short Final Exam (10%)**
 
 ## Week 2-3 : ##      
+<<<<<<< HEAD
 - Ernest Renan(1882): [*What is a Nation?*](https://drive.google.com/open?id=0Bx7dFWXNGLJFUUFBVWk1bEo3SkE). 
 
 - Jean-Jacques Rousseau (1762): [*Social Contract*](https://drive.google.com/open?id=0Bx7dFWXNGLJFc2xIVlh1eWVSb2s) (all of Book I, and Book II up to Chapter X, pages 46-86). 
@@ -39,5 +40,12 @@ Options when facing colonialism
 Movie: Empire documentary (Niall Ferguson)    
 [Statehood from a Radical-Democratic Perspective (Manifesto)](https://docs.google.com/document/d/1uwW9i3sWDFwFVInBWyxDFBQ-Hzk5ruGrUQTh1tyhEjg/edit?usp=sharing)
 
+=======
+- Renan, Ernest (1882): [*What is a Nation?*](https://drive.google.com/open?id=0Bx7dFWXNGLJFUUFBVWk1bEo3SkE). 
+
+- Jean-Jacques Rousseau (1762): [*Social Contract*](https://drive.google.com/open?id=0Bx7dFWXNGLJFc2xIVlh1eWVSb2s) (all of Book I, and Book II up to Chapter X, pages 46-86). 
+
+Ideal types, sovereignty, Jefferson vs. Rousseau, the types of conquest (internal – external), what a colony is. 
+>>>>>>> 967fdd0834f2fe3a8f854fc17c97209d9db39214
 
 TRATANDO TRatando
