@@ -314,3 +314,7 @@ y ese es sólo un instante, la cualidad de casi cruz o estrella.
 Una diagonal profunda
 espesa los cuerpos al final del día y hace de los pequeños círculos
 el único lugar posible para habitar.
+
+First header | Second Header
+_
+Content Cell 1 | Content Cell 2
