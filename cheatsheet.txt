@@ -1,0 +1,24 @@
+This is my cheat sheet.
+
+ls - list
+cd - change directory
+cd .. - go up one level
+cd ~ - go home!
+tab - the best key ever, it auto completes names.
+mkdir - create a new folder
+echo - echo echo echo
+cat - it prints whatever is in the file. 
+q = interrups the output from commmand (if too long)
+command + k - clears last screen
+command l - clears last command
+uniq - unique entries (non duplicates)
+> - redirect or create file if no file with that name
+grep - search
+-i - ignore capitalization
+
+MarkdownGuide
+https://help.ghost.org/hc/en-us/articles/224410728-Markdown-Guide
+
+
+
+
